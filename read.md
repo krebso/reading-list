@@ -4,4 +4,5 @@
 - [ ] Building blocks of interpretability: https://distill.pub/2018/building-blocks/
 - [ ] Fast matmul in cuda: https://siboehm.com/articles/22/CUDA-MMM
 - [ ] SVD - https://www.math3ma.com/blog/understanding-entanglement-with-svd
+- [ ] C++ best practices - https://github.com/cpp-best-practices/cppbestpractices/tree/master
 
